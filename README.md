@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “calculator operation”.
-Developed by: Harsayazheni P Y
-Registeration Number : 212222040052
+Developed by: PRADEESH KUMAR S
+Registeration Number : 212221040124
 */
 ```
 In activity_main.xml
